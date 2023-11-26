@@ -1,0 +1,1 @@
+The objective for this task was to create a simple class called "Person" with attributes for name, age, and address, then write a program that creates a "Person" object, sets its attributes, and prints the information. 

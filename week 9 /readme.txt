@@ -1,0 +1,1 @@
+The objective for this task was to modify the program from week 7 to handle exceptions gratefully. If the user enters an invalid fruit name, print a friendly error message instead of raising an exception. 

@@ -1,0 +1,1 @@
+The objective for this task was to create a new class called "Student" that inherits from the "Person" class, and to add a new attribute for the student's grade level and a method to print the student's information, including the grade level. 

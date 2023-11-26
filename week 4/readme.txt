@@ -1,0 +1,1 @@
+The objective for this task was to create a list of 5 random numbers, then write a program that iterates through the list, prints each number, and calculates the sum of all the numbers. 

@@ -1,0 +1,1 @@
+The objective for this task was to create a dictionary that contains 5 key-value pairs of fruit names and their prices, then write a program that takes a fruit name as input and returns its price, or an error message if the fruit is not found in the dictionary. 
